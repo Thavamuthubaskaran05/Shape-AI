@@ -1,0 +1,16 @@
+-------------------------------------------------------------
+Weather Report for - SULUR  || 22 Jun 2021 | 02:58:56 PM
+-------------------------------------------------------------
+Current temperature is: 32.23 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 51 %
+Current wind speed    : 4.12 coikmph
+
+-------------------------------------------------------------
+Weather Report for - SULUR  || 22 Jun 2021 | 02:59:13 PM
+-------------------------------------------------------------
+Current temperature is: 32.23 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 51 %
+Current wind speed    : 4.12 coikmph
+
